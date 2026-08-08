@@ -6,3 +6,9 @@ This repository is dedicated to hosting the final release applications and softw
 
 - **Final Releases**: Download the latest stable versions of our applications.
 - **Flux Software**: Central hub for all Flux ecosystem binaries and executables.
+
+## Releases
+
+| Version | Application | Date | Notes | Download Link |
+| :--- | :--- | :--- | :--- | :--- |
+| v1.0.0 | Example App | YYYY-MM-DD | Initial release | [Download]() |
