@@ -21,7 +21,6 @@ Experience FLUX on the go.
   <img src="assets/mobile/scrn1.jpeg" width="200" alt="Mobile Screenshot 1"/>
   <img src="assets/mobile/scrn2.jpeg" width="200" alt="Mobile Screenshot 2"/>
   <img src="assets/mobile/scrn3.jpeg" width="200" alt="Mobile Screenshot 3"/>
-  <img src="assets/mobile/scrn4.jpeg" width="200" alt="Mobile Screenshot 4"/>
 </div>
 
 ---
