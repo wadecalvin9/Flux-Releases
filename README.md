@@ -13,7 +13,7 @@ Experience FLUX on the go.
 - **Version**: v1.0.0
 - **Date**: August 8, 2026
 - **Release Notes**: Initial release of the Flux Mobile app.
-- **Download**: [📥 Download APK](https://github.com/wadecalvin9/Flux-Releases/releases/download/v1.0.0/Flux-v1.0.0-app-release.apk)
+- **Download**: [📥 Download APK](https://github.com/wadecalvin9/Flux-Releases/releases/download/v1.0.0/FluxMobile-release.apk)
 
 #### Mobile Screenshots
 
